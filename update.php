@@ -146,7 +146,7 @@ function readURL(input) {
 
  $(document).ready(function() {
     var email = $('#emailval').val();
-console.log(userid);console.log(email);
+
     var dtToday = new Date();
 
     var month = dtToday.getMonth() + 1;
